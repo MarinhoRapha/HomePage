@@ -1,6 +1,6 @@
 ## 🚨 Sobre 
 - <h2> Uma single page simples feita durante o curso de programação da dankicode, com intuito para captção e apresentação de serviços. </h2>
-- <h3><a href="https://github.com/user-attachments/assets/8fe1c0df-4cb2-415a-ba0c-2c7906dbb6a4">Clique aqui e confira!</a></h3>
+- <h3><a href="https://marinhorapha.github.io/HomePage-Promocional/">Clique aqui e confira!</a></h3>
 
 ## 📜 Ferramentas
 
